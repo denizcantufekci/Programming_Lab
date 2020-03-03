@@ -42,7 +42,7 @@ def findMaxRange_i(inlist=[4, -3, 5, -2, -1, 2, 6, -2]):
                 i_1, i_2 = i, j
     return max , i_1, i_2
 
-def findMaxRange_ii(inlist=[4, -3, 5, -2, -1, 2, 6, -2]):   #Less control then first function.
+def findMaxRange_ii(inlist=[4, -3, 5, -2, -1, 2, 6, -2]):   #Less control than first function.
     max = 0
     for i in range(len(inlist)):
         t = 0
