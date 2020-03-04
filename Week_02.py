@@ -1,3 +1,9 @@
+"""
+The functions My_f_1, My_f_2, and My_f_3 find the consecutive maximum total value in the array and assign it to the variable maxSum.
+
+My_f_1, My_f_2 ve My_f_3 fonksiyonları dizi içindeki ardışık maksimum toplam değeri bulur ve bu değeri maxSum değişkenine atar.
+"""
+
 def my_f_1(inList=[4, -3, 5, -2, -1, 2, 6, -2]):
     maxSum = 0
     n = len(inList)
@@ -26,7 +32,6 @@ My_f_3 function searches faster by dividing the array in half with each step.
 
 My_f_3 fonksiyonu diziyi her adımda ikiye bölerek daha hızlı arama yapar.
 """
-
 def max_of_two(a, b):
     if a > b:
         return a
