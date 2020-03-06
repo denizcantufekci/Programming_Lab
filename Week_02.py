@@ -8,9 +8,9 @@ def my_f_1(inList=[4, -3, 5, -2, -1, 2, 6, -2]):
     maxSum = 0
     n = len(inList)
     for i in range(n):
-        for j in range(i, n):
+        for j in range(i+1, n):
             t = 0
-            for k in range(i, j):
+            for k in range(i, j+1):
                 t = t + inList[k]
                 if(t > maxSum):
                     maxSum = t
