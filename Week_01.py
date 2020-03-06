@@ -15,7 +15,7 @@ def power_ii(a,b):  #Power Function with recursive method.
         return a
     if b > 1:
         if b % 2 == 0:
-            return power_ii(a*a, int(b/2))
+            return power_ii(a*a, b/2)
         return power_ii(a*a, int(b/2))*a
         #return power_ii(a, b-1)*a
 
