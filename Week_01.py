@@ -1,4 +1,4 @@
-def power_i(a,b):   #Power Function is by the traditional method.
+def power_ord(a,b):   # Power Function is by the ordinary method.
     if b == 0:
         return 1
     if b == 1:
@@ -8,16 +8,16 @@ def power_i(a,b):   #Power Function is by the traditional method.
         m *= a
     return m
 
-def power_ii(a,b):  #Power Function with recursive method.
+def power_rcv(a,b):  # Power Function with recursive method.
     if b == 0:
         return 1
     if b == 1:
         return a
     if b > 1:
         if b % 2 == 0:
-            return power_ii(a*a, b/2)
-        return power_ii(a*a, int(b/2))*a
-        #return power_ii(a, b-1)*a
+            return power_rcv(a*a, b/2)
+        return power_rcv(a*a, b//2)*a
+        #return power_rcv(a, b-1)*a
 
 """
 The FindMaxRange function gives us the maximum range of elements
