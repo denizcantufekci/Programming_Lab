@@ -48,9 +48,8 @@ def fibo_rec(n): # This function finds the fibonacci number using known dictiona
 def fibonacci_ord(n): # This function finds the fibonacci number in the ordinary way, without recursion.
     fib1, fib2 = 0, 1 # 0 is the zeroth fibonacci number and 1 is the first fibonacci number.
     for i in range(n-1):
-        fib = fib1 + fib2
-        fib1, fib2 = fib2, fib
-    return fib # It returns nth fibonacci number.
+        fib1, fib2 = fib2, fib1 + fib2
+    return fib2 # It returns nth fibonacci number.
 
 """
     FiniteSet(0, 1, 3, Fraction(1,5)) = {0, 1, 1/5, 3}
