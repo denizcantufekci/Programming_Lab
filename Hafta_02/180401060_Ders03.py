@@ -33,8 +33,7 @@ My_f_3 fonksiyonu diziyi her adımda ikiye bölerek daha hızlı arama yapar.
 def max_of_two(a, b):
     if a > b:
         return a
-    else:
-        return b
+    return b
 
 def max_of_three(a, b, c):
     return max_of_two(a, max_of_two(b, c))
