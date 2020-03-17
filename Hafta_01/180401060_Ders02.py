@@ -2,12 +2,14 @@
 def Selection(inList=[7, 6, 8, 9, 3, 2, 10, 5, 1]):
     n = len(inList)
     swaps, comparison = 0, 0
-    for key in range(n-1):
-        for i in range(key+1,n):
+    for key in range(n):
+        min = key
+        for j in range(key+1, n):
             comparison += 1
-            if inList[i] < inList[key]:
-                swaps += 1
-                inList[i], inList[key] = inList[key], inList[i]
+            if inList[min] > inList[j]:
+                min = j
+        swaps += 1
+        inList[key], inList[min] = inList[min], inList[key]
     return 'SelectionSorted List: {} \nComparison: {} \nSwap: {} '.format(
         inList, comparison, swaps)
 
