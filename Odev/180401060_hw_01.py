@@ -16,7 +16,7 @@ main_dict = dict()
 
 for index in data_text_list:
     temp_path += index
-    with open(temp_path, "r") as r_file:
+    with open(temp_path, "r", encoding="utf-8") as r_file:
         word_list = [word for line in r_file for word in line.split()]
         i = 0
         for item in word_list:
