@@ -46,7 +46,7 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
 ## ÖDEVLER
 
   - [Ödev 1](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_01.py): Önceden verilen text dosyaları baz alınarak, girilen input verisine göre bir sonraki kelime tahminleri yapılıyor.
-  - [Ödev 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_02.py): 
+  - [Ödev 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_02.py): Çalışan işe alma ve çıkarılma tarihlerinin olduğu veri setinden, yalnız çıkarılma tarihlerindeki aylar baz alınarak histogram yoluyla ortalama ve medyan bilgisi elde ediliyor.
 
 ***Email me at***: denizcantufekci@gmail.com 
 
