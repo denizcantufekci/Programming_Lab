@@ -23,9 +23,6 @@ def GetHistogram(inlist):
             month_dic[inlist[index]] += 1
         else:
             month_dic[inlist[index]] = 1
-    for item in range(1,13): 
-        if not (item in month_dic):
-            month_dic[item] = 0
     return month_dic
 
 
