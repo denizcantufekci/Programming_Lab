@@ -27,21 +27,22 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
 
 * **UZEM:Hafta_02 Konuları**
   - [Ders 10](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders10.py): 
+  - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders11.py): 
 
 * **UZEM:Hafta_03 Konuları**
-  - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders11.py): 
+  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders.py): 
   
 * **UZEM:Hafta_04 Konuları**
-  - [Ders 12](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders12.py): 
+  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders.py): 
 
 * **UZEM:Hafta_05 Konuları**
-  - [Ders 13](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders13.py): 
+  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders.py): 
 
 * **UZEM:Hafta_06 Konuları**
-  - [Ders 14](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders14.py): 
+  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders.py): 
 
 * **UZEM:Hafta_07 Konuları**
-  - [Ders 15](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders15.py): 
+  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders.py): 
 
 ## ÖDEVLER
 
