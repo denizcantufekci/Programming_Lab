@@ -24,7 +24,6 @@ factors = factor(expr)
 # factor() methodu argüman olarak girilen ifadeyi çarpanlarına ayrılmış şekilde tanımlar.
 # print(factors) """Output: (x - y)*(x + y) """
 
-
 expands = expand(factors) 
 # expand() methodu argümanına çarpanlarına ayrılmış ifade yazılırsa, o ifadenin çarpanlarına ayrılmadan önceki halini tanımlar.
 # print(expands) """Output: x**2 - y**2 """
