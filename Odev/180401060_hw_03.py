@@ -1,6 +1,15 @@
 # added contents
 
 """
+AÇIKLAMA
+Soru 1 / Sürekli Tekdüze Dağılım Bazında Oluşturulan Soru: 
+        ÇOMÜ'de bulunan ÖSEM binasında öğle yemeklerinin 11:30–13:30 saatleri arasında verildiği bilindiğine göre,
+        üniversitede bulunan bir öğrencinin 12:30'dan sonra öğle yemeğini alma olasılığı kaçtır?
+Soru 2 / Kesikli Tekdüze Dağılım Bazında Oluşturulan Soru: 
+        ÇOMÜ öğrenci işleri başkanlığı, bünyesinde bulunan 9999 aktif öğrenci arasından kura ile çekeceği bir kişiye tam bir 
+        senelik burs imkanı sağlayacaktır. Bu talihli kişinin öğrenci numarasının son hanesinin 4'den küçük olma olasılığı kaçtır?
+
+İÇERİK AÇIKLAMA
 Rastgele Değişken(Random Variable): 
         Değeri bir deney sonucu ile belirlenen, izini sürebilmemize olanak sağlayan değişken türüdür.
 Kesikli Rastgele Değişken(Discrete Random Variable): 
@@ -32,16 +41,8 @@ Birikimli/Yığmalı Dağılım Fonksiyonu (Cumulative Distribution Function) / 
         rastgele değişkenin belirli bir aralık içinde bir değer aldığı olayların olasılığını tanımlanır. 
         Bunu yaparken genelde, rastgele değişkenin belirli bir x değerine eşit veya x değerinden daha küçük bir değer alma olasılığı 
         olarak tanımlanan kümülatif/birikimli/yığmalı dağılım fonksiyonu kullanılır.
-
 Tekdüze Dağılım(Uniform Distribution):
         Rastgele değişkenler için olası değerlerin(olayların) gerçekleşme olasılıklarının eşit olması durumunda 
         oluşan olasılık dağılımıdır. Kesikli dağılım gösterebildiği gibi sürekli dağılım da gösterebilir. 
         Sürekli dağılım gösterdiği duruma şeklinden dolayı dikdörtgen dağılım(rectangular distribution) da denmektedir.
-
-Sürekli Tekdüze Dağılım Bazında Oluşturulan Soru: 
-        ÇOMÜ'de bulunan ÖSEM binasında öğle yemeklerinin 11:30–13:30 saatleri arasında verildiği bilindiğine göre,
-        üniversitede bulunan bir öğrencinin 12:30'dan sonra öğle yemeğini alma olasılığı kaçtır?
-Kesikli Tekdüze Dağılım Bazında Oluşturulan Soru: 
-        ÇOMÜ öğrenci işleri başkanlığı, bünyesinde bulunan 9999 aktif öğrenci arasından kura ile çekeceği bir kişiye tam bir 
-        senelik burs imkanı sağlayacaktır. Bu talihli kişinin öğrenci numarasının son hanesinin 4'den küçük olma olasılığı kaçtır?
 """
