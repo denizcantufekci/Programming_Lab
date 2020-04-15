@@ -30,7 +30,9 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders11.ipynb): 
 
 * **UZEM:Hafta_03 Konuları**
-  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders.py): 
+  - [Ders 12](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders12.py): 
+  - [Ders 13](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders13.py): 
+  - [Ders 14](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders14.py): 
   
 * **UZEM:Hafta_04 Konuları**
   - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders.py): 
