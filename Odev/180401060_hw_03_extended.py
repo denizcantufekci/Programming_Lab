@@ -3,7 +3,6 @@
 """
 AÇIKLAMA
 Soru 1 / Sürekli Tekdüze Dağılım Bazında Oluşturulan Soru: 
-        Soru 1 / Sürekli Tekdüze Dağılım Bazında Oluşturulan Soru: 
         100 kişilik bir sınıfta bulunan öğrencilerin, 60 dakikalık derste dikkat dağılma süreleri 10-20 dakika arası 
         olmak üzere düzenli bir dağılım göstermektedir. Dersin ilk 5 dakikası yoklama için ayrıldığı bilindiğine göre 
         sınıftan seçilen herhangi bir öğrencinin, ders boyunca dikkati en çok 15 dk dağılan öğrencilerden biri olma olasılığı kaçtır?
