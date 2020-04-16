@@ -50,7 +50,7 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
 
   - [Ödev 1](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_01.py): Önceden verilen text dosyaları baz alınarak, girilen input verisine göre bir sonraki kelime tahminleri yapılıyor.
   - [Ödev 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_02.py): Çalışan işe alma ve çıkarılma tarihlerinin olduğu veri setinden, yalnız çıkarılma tarihlerindeki aylar baz alınarak histogram yoluyla ortalama ve medyan bilgisi elde ediliyor.
-  - [Ödev 3](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_03.py): Açıklama kısmında verilen sorular için tekdüze dağılım (uniform distribution) formülü baz alınarak örnek bir fonksiyon oluşturuluyor. Elde edilen fonksiyon (Yoğunluk veya Kütle fonksiyonu) kullanılarak, hem sympy.plotting modülündeki hem de matplotlib.pyplot modülündeki plot methodu ile grafik çizimleri yapılıyor. 
+  - [Ödev 3](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_03.ipynb): Açıklama kısmında verilen sorular için tekdüze dağılım (uniform distribution) formülü baz alınarak örnek bir fonksiyon oluşturuluyor. Elde edilen fonksiyon (Yoğunluk veya Kütle fonksiyonu) kullanılarak, hem sympy.plotting modülündeki hem de matplotlib.pyplot modülündeki plot methodu ile grafik çizimleri yapılıyor. 
   
 ## QUİZLER
 
