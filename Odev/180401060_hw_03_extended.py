@@ -1,10 +1,13 @@
-# added contents
+# fixed contents
 
 """
 AÇIKLAMA
 Soru 1 / Sürekli Tekdüze Dağılım Bazında Oluşturulan Soru: 
-        ÇOMÜ'de bulunan ÖSEM binasında öğle yemeklerinin 11:30–13:30 saatleri arasında verildiği bilindiğine göre,
-        üniversitede bulunan bir öğrencinin 12:30'dan sonra öğle yemeğini alma olasılığı kaçtır?
+        Soru 1 / Sürekli Tekdüze Dağılım Bazında Oluşturulan Soru: 
+        100 kişilik bir sınıfta bulunan öğrencilerin, 60 dakikalık derste dikkat dağılma süreleri 10-20 dakika arası 
+        olmak üzere düzenli bir dağılım göstermektedir. Dersin ilk 5 dakikası yoklama için ayrıldığı bilindiğine göre 
+        sınıftan seçilen herhangi bir öğrencinin, ders boyunca dikkati en çok 15 dk dağılan öğrencilerden biri olma olasılığı kaçtır?
+        
 Soru 2 / Kesikli Tekdüze Dağılım Bazında Oluşturulan Soru: 
         ÇOMÜ öğrenci işleri başkanlığı, bünyesinde bulunan 9999 aktif öğrenci arasından kura ile çekeceği bir kişiye tam bir 
         senelik burs imkanı sağlayacaktır. Bu talihli kişinin öğrenci numarasının son hanesinin 4'den küçük olma olasılığı kaçtır?
