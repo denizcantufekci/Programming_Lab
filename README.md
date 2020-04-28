@@ -35,7 +35,7 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 14](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders14.py): 
   
 * **UZEM:Hafta_04 Konuları**
-  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders.py): 
+  - [Ders 15](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders15.py): 
 
 * **UZEM:Hafta_05 Konuları**
   - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders.py): 
