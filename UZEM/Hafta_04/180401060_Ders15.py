@@ -15,7 +15,7 @@ def min_heapify(array, i):
 
 
 def build_min_heap(array): 
-    for i in reversed(range(len(array)//2)):
+    for i in reversed(range(len(array)//2)):  #reversed: tersten başlar, değerler azalır.
         min_heapify(array, i)
     
 
