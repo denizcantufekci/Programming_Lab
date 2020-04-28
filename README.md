@@ -56,7 +56,7 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
 ## QUİZLER
 
   - [Quiz 1](https://github.com/denizcantufekci/Programming_Lab/blob/master/Quiz/Prog_Lab_Quiz_1.pdf): [UZEM:Hafta_02](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_02) derslerinde işlenen kod parçalarındaki işlevler açıklandı.
-  - [Quiz 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Quiz/Prog_Lab_Quiz_2.txt): 
+  - [Quiz 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Quiz/Prog_Lab_Quiz.txt): 
 
 ***Email me at***: denizcantufekci@gmail.com 
 
