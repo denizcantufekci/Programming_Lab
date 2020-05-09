@@ -41,7 +41,9 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 16](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders16.py): 
 
 * **UZEM:Hafta_06 Konuları**
-  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders.py): 
+  - [Ders 17](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders17.py): 
+  - [Ders 18](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders18.py): 
+  - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders19.py): 
 
 * **UZEM:Hafta_07 Konuları**
   - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders.py): 
@@ -52,6 +54,8 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ödev 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_02.py): Çalışan işe alma ve çıkarılma tarihlerinin olduğu veri setinden, yalnız çıkarılma tarihlerindeki aylar baz alınarak histogram yoluyla ortalama ve medyan bilgisi elde ediliyor.
   - [Ödev 3](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_03.ipynb): Açıklama kısmında verilen sorular için tekdüze dağılım (uniform distribution) formülü baz alınarak örnek bir fonksiyon oluşturuluyor. Elde edilen fonksiyon (Yoğunluk veya Kütle fonksiyonu) kullanılarak, hem sympy.plotting modülündeki hem de matplotlib.pyplot modülündeki plot methodu ile grafik çizimleri yapılıyor. 
   - [Ödev 4](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_04.pdf): [UZEM:Hafta_04](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_04) derslerinde işlenen kod parçalarındaki işlevler açıklandı ve **heap** konusu baz alınarak *insertItem* ve *removeItem* fonksiyonları gerçeklendi.
+  - [Ödev 5](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_05.txt): 
+  - [Ödev 6](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_06.py): 
   
 ## QUİZLER
 
