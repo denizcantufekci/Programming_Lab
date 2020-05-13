@@ -38,12 +38,12 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 15](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders15.py): 
 
 * **UZEM:Hafta_05 Konuları**
-  - [Ders 16](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders16.py): 
+  - [Ders 16](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders16.py): Chain, Combinations modülü kullanımı - Nesne(*OOP*) kullanımı - Greedy/Knapsack/BruteForce algoritmaları kullanımı - Kuvvet kümesi(*Powerset*) kullanımı
 
 * **UZEM:Hafta_06 Konuları**
-  - [Ders 17](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders17.py): 
-  - [Ders 18](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders18.py): 
-  - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders19.py): 
+  - [Ders 17](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders17.py): Rekürsif(*Recursive*) ve dinamik(*Dynamic*) yöntem ile fibonacci fonksiyonu gerçeklendi
+  - [Ders 18](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders18.py): Knapsack fonksiyonu özyineli(*recursive*) yöntem ile gerçeklendi
+  - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders19.py): Knapsack fonksiyonu dinamik(*dynamic*) yöntem ile gerçeklendi
 
 * **UZEM:Hafta_07 Konuları**
   - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(*search*), ekleme(*insertion*) ve silme(*delete*) fonksiyonları açıklandı ve gerçeklendi.
