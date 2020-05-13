@@ -27,12 +27,12 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
 
 * **UZEM:Hafta_02 Konuları**
   - [Ders 10](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders10.py): Symbol, Factor, Expand, Pprint modülü kullanımı - Sembol() ile denklem oluşturma - Factor() ile ifadeyi çarpanlarına ayırma - Expands() ile polinomsal ifadenin sadeleştirilmiş halini bulma - Pprint() "*PrettyPrint*" ile görselleştirilmiş çıktı alma - Expr() ile değişken değiştirme - Seri oluşturma ve değerini bulma
-  - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders11.ipynb): sympy.plotting, matplotlib.pyplot modülleri ile grafik oluşturma - *Pi*, sqrt() gibi irrasyonel ifadeler ile gauss fonksiyonu oluşturma ve grafiklendirme
+  - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders11.ipynb): sympy.plotting, matplotlib.pyplot modülü kullanımı - *Pi*, sqrt() gibi irrasyonel ifadeler ile gauss fonksiyonu oluşturma ve grafiklendirme
 
 * **UZEM:Hafta_03 Konuları**
-  - [Ders 12](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders12.py): 
-  - [Ders 13](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders13.py): 
-  - [Ders 14](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders14.py): 
+  - [Ders 12](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders12.ipynb): Symbol() ile denklem oluşturma - *Binomal Distribution* grafiklendirme
+  - [Ders 13](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders13.ipynb): Limit modülü kullanımı - Symbol() ile denklem oluşturma - Denklem limitini bulma 
+  - [Ders 14](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders14.ipynb): Exp, Sqrt, Pi, Integral modülü kullanımı - e^x ifadesi gerçeklemesi - evalf() ile irrasyonel sayıların ondalıklı gösterimi - Olasılık ifadesi oluşturma ve örnek olay yazdırma
   
 * **UZEM:Hafta_04 Konuları**
   - [Ders 15](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders15.py): 
