@@ -35,13 +35,13 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 14](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders14.ipynb): Exp, Sqrt, Pi, Integral modülü kullanımı - e^x ifadesi gerçeklemesi - evalf() ile irrasyonel sayıların ondalıklı gösterimi - Olasılık ifadesi oluşturma ve örnek olay yazdırma
   
 * **UZEM:Hafta_04 Konuları**
-  - [Ders 15](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders15.py): 
+  - [Ders 15](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_04/180401060_Ders15.py): [TowardsDataScience](https://towardsdatascience.com/data-structure-heap-23d4c78a6962) sitesinde yer alan Heap konuları baz alınarak kod *build_min_heap*(), *min_heapify*(), *heapsort*() fonksiyonları açıklandı ve gerçeklendi.
 
 * **UZEM:Hafta_05 Konuları**
   - [Ders 16](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_05/180401060_Ders16.py): Chain, Combinations modülü kullanımı - Nesne(*OOP*) kullanımı - Greedy/Knapsack/BruteForce algoritmaları kullanımı - Kuvvet kümesi(*Powerset*) kullanımı
 
 * **UZEM:Hafta_06 Konuları**
-  - [Ders 17](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders17.py): Rekürsif(*Recursive*) ve dinamik(*Dynamic*) yöntem ile fibonacci fonksiyonu gerçeklendi
+  - [Ders 17](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders17.py): Fibonacci fonksiyonu özyineli(*recursive*) ve dinamik(*dynamic*) yöntem ile gerçeklendi
   - [Ders 18](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders18.py): Knapsack fonksiyonu özyineli(*recursive*) yöntem ile gerçeklendi
   - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders19.py): Knapsack fonksiyonu dinamik(*dynamic*) yöntem ile gerçeklendi
 
