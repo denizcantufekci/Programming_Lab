@@ -26,8 +26,8 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 09](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_01/180401060_Ders09.py): Random modülü kullanımı - Random dizi oluşturma - Histogram (Sıradan Gösterim/Tuple Gösterim) - Histogramlardan mod(en çok tekrar eden eleman) elde etme - Medyan(Ortanca eleman) bulma - Ortalama bulma - Lineer Search - Binary Search
 
 * **UZEM:Hafta_02 Konuları**
-  - [Ders 10](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders10.py): 
-  - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders11.ipynb): 
+  - [Ders 10](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders10.py): Symbol, Factor, Expand, Pprint modülü kullanımı - Sembol() ile denklem oluşturma - Factor() ile ifadeyi çarpanlarına ayırma - Expands() ile polinomsal ifadenin sadeleştirilmiş halini bulma - Pprint() "*PrettyPrint*" ile görselleştirilmiş çıktı alma - Expr() ile değişken değiştirme - Seri oluşturma ve değerini bulma
+  - [Ders 11](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_02/180401060_Ders11.ipynb): sympy.plotting, matplotlib.pyplot modülleri ile grafik oluşturma - *Pi*, sqrt() gibi irrasyonel ifadeler ile gauss fonksiyonu oluşturma ve grafiklendirme
 
 * **UZEM:Hafta_03 Konuları**
   - [Ders 12](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_03/180401060_Ders12.py): 
@@ -46,7 +46,7 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders19.py): 
 
 * **UZEM:Hafta_07 Konuları**
-  - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(search), ekleme(insertion) ve silme(delete) işlemleri açıklandı ve gerçeklendi.
+  - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(*search*), ekleme(*insertion*) ve silme(*delete*) fonksiyonları açıklandı ve gerçeklendi.
 
 ## ÖDEVLER
 
