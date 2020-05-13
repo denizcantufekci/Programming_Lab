@@ -46,7 +46,7 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders19.py): 
 
 * **UZEM:Hafta_07 Konuları**
-  - [Ders ](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders.py): 
+  - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(search), ekleme(insertion) ve silme(delete) işlemleri açıklandı ve gerçeklendi.
 
 ## ÖDEVLER
 
