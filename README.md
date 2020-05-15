@@ -46,7 +46,8 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ders 19](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_06/180401060_Ders19.py): Knapsack fonksiyonu dinamik(*dynamic*) yöntem ile gerçeklendi
 
 * **UZEM:Hafta_07 Konuları**
-  - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(*search*), ekleme(*insertion*) ve silme(*delete*) fonksiyonları açıklandı ve gerçeklendi.
+  - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(*search*), ekleme(*insertion*) ve silme(*delete*) fonksiyonları açıklandı ve gerçeklendi.
+  - [Ders 21](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders21.py): random modülü (choice-random methodu) kullanımı - Zar atma olasılığı - Para atma olasılıkları ve grafiklenmesi - (...)
 
 ## ÖDEVLER
 
