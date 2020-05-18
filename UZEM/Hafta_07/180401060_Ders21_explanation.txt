@@ -1,0 +1,79 @@
+Öncelikle bazı kavramları açıklamada yarar var: 
+- Stokastik programlama (Stochastic Programming)
+- Çıkarımsal İstatistik (Inferential Statistics)
+- Ortalamaya Gerileme (Regression Toward the Mean)
+
+    Stokastik, belirli bir düzen içersinde seyretmeyen, belirsizlik unsuru içeren, rastlantısal anlamlarına gelen bir terimdir.
+Stokastik süreç ise, değişimi rastgele bir varyasyona bağlı olan ve bir değişken tarafından temsil edilen bazı sistemlerin 
+gelişimini yansıtan bir zaman dizisidir. Bir olayın t zamanındaki olasılığı biliniyorsa "n" zaman sonraki olasılığı, bu olayın 
+geçmiş olasılıklarından bağımsız olarak hesaplanıp bulunabileceği açıklanmaya çalışılır. Borsa ve döviz kuru dalgalanmaları, 
+bir hastanın EKG, EEG, kan basıncı gibi değerleri bu sürecin birer örneği sayabiliriz.
+    Stokastik programlama ise, belirsizlik içeren optimizasyon problemlerinin modellenmesi için oluşturulan yaklaşım biçimidir.
+Buradaki temel yaklaşım, problemin stokastik süreç altındaki olasılıksal bir yapıdan deterministik bir yapıya(matematiksel formülasyona)
+dönüştürülerek çözülmesidir. Belirsizlik içeren parametreler stokastik süreçlerle tanımlandığında, bu parametrelerin belirsizliğini 
+matematik programlama problemi olarak formüle etmek(deterministik bir yapıya dönüştürmek) mümkündür. Bu sayede belirsiz parametrelerden,
+belirli(sonlu) sonuçlar elde edilebilmektedir.
+
+    Çıkarımsal istatistik, örnek uzayın rastgele seçilen bir örnekleminden elde edilen istatistiklere dayalı olarak, tüm örnek uzay
+hakkında kestirimde bulunmak, çıkarımlar yapmaktır. Betimsel istatistik(descriptive statistics) sadece gözlenen verilerin özellikleri 
+ile ilgilenirken, çıkarımsal istatistik eldeki verinin daha geniş bir anakütleden geldiğini varsayarak bu anakütlenin özellikleri 
+hakkında çıkarımlar yapar.
+
+    Dersimizde işlenen arka arkaya hilesiz zar atma veya para atma olayları birer stokastik süreç örnekleridirler.
+Ardısıra 10 Defa atılan bir zarın, 1111111111 veya 5442462412 gibi sonuçlarının her biri eşit derecede olasıdır. 
+Stokastik bir süreçte, bir olayın sonucunun diğerinin sonucu üzerinde etkisi yoksa iki olay bağımsızdır.
+(10 kez atılan zarda toplam örnek uzay sayısı: 6^10. Art arda on tane 1 gelme olasılığı 1/6^10'dur ama aynı zamanda zar 
+sonuçlarının 5442462412 serisi halinde gelmesinin de olasılığı 1/6^10^dur. Çünkü zar atışları birbirinden bağımsızdırlar.)
+    Ardısıra 10 Defa atılan bir madeni paranın kaç kez tura geleceği hakkında çıkarım yaparken, örneklem olarak bir kere atılan 
+madeni paradaki tura gelme olasılığını baz alabiliriz. Ya da 10 kez atılan bir madeni paradan elde edilen sonuçlar ile 
+madeni paranın genel davranışı hakkında çıkarımda bulunabiliriz. Örneklem uzayımız ne kadar büyürse, çıkarımdaki hatamız o kadar azalır.
+Bu noktada, ilk olarak Jakob Bernoulli tarafından büyük sayılar yasasını(law of large numbers) gerçekleriz. Bu yasa, 
+bir rassal değişkenin uzun vadeli kararlılığını tanımlayan bir olasılık teoremidir ve sonlu bir beklenen değere sahip 
+birbirinden bağımsız ve eşit dağılıma sahip bir rassal değişkenler örneklemi verildiğinde bu gözlemlerin ortalamasının, 
+stokastik sürecin kararlanma noktası olduğunu belirtir. (Yani büyük bir örneklemde zarın 1111111111 gelmesi olasılığı, her ne kadar
+tekil şartlarda olasılıkları aynı olsa da, 5442462412 gelmesi olasılığından oldukça düşüktür.)
+
+    Ortalamaya gerileme, bir istatistik üzerine olay ne kadar fazla tekrarlanırsa, bu olayların gerçek sonucu matematiksel sonucuna, 
+yani ortalamasına o kadar yaklaşacağını ifade eden bir teoridir. En az olası olaydan daha da az olası bir olayın gerçekleşmesi 
+olasılığının çok düşük olduğunu, olayların sayısı(örnek uzay) büyüdükçe normale(ortalamaya) doğru kayma eğilimini açıklar.
+    Dersimizde işlenen regressToMean fonksiyonun çıktısındaki grafikte, daireler gerçekleşmesi en az olası olayları temsil ederken,
+üçgenler ise çıkarımsal istatistik yöntemi ile elde ettiğimiz bir sonraki olayın sonucunu, grafiğin ortasında bulunan mavi çizgi ise 
+normalimizi ifade eder. Genelde aşırı(en az olası) sonucu takip eden denemenin ardından, normalden aşırı sonuca göre daha yakın 
+bir deneme yapıldığı görülse de, düşük de olsa, normalden aşırı sonuca göre daha daha uzak bir deneme yapıldığı görülmesi de olasıdır.
+    
+    Seed methodu: Random modülü, rastgele bir sayı üretmek için seed içideki değeri baz alır. Eğer seed içinde bir değer mevcut 
+değilse, sistemin mevcut zamanını baz alır. Rastgele veri oluşturmadan önce, öncesinde verilen seed değeri ile aynı seed değerini 
+verirseniz, random methodu öncesinde üretilen veri ile aynı veriyi üretir.Ayrıca fonksiyon parametrelerinde geçen 'ko' ifadesi siyah, 
+'bo' ifadesi ise mavi çizgilendirme için kullanılır. (yalnız 'k' veya 'b' de yazılabilir.) Ayrıntılı bilgi için: 
+https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot adresine bakabilirsiniz.
+
+    Dersimizde işlenen flipPlot fonksiyonundaki random.seed() methodu ile çağrılmasının sebebi hata ayıklamayı daha kolay yapmaktır.
+Yani bu kod parçası, yeni baştan her yürütüldüğünde aynı sayı dizisini üretmesini sağlar. (Seed'e hangi değer gönderildiği önemsizdir,
+kod her çalıştığında aynı değerde olması yeterlidir.) 
+    FlipPlot fonksiyonunun çıktılarına baktığımızda yazı ve tura arasındaki farkın oldukça yüksek mertebelere çıktığını görmekteyiz.
+Bunun sebebi, giderek artan deney sayılarında oluşan farkın da doğru orantılı olarak artmasıdır. Misal 10 atışın 4'ünün yazı, 6'sının
+tura geldiğini varsayarsak aradaki fark 2 olur. Aynı olasılık bazında 10000 atış yapılsa 4000 yazı, 6000 tura geldiğini ve farkın 2000'e
+çıktığını gözlemleriz. Kodun, 2^20 gibi milyonlarda dolanan durumları bile gerçeklediğini varsayarsak yazı ile tura arasındaki farkın 
+ucuk seviyelerde gözlenmesi kaçınılmazdır. 
+    Fark ne kadar açılsa bile, gerçekleşme olasılıklarının deney sayısı büyüdükçe birbirlerine çok yaklaştığını(ortalamaya gerilediğini)
+Heads/Tails Ratios grafiğinden de görebiliriz. Yani 1 milyon deneyde 510000 yazı, 490000 tura geldiğini varsayarsak, farkları hayli 
+büyük olmasına rağmen oranları 1'e oldukça yakın olacaktır.
+    Yalnız şunu unutmamak gerekir ki, PyLab grafikleme yaparken default olarak doğrusal ölçekleme ile çizgilendirme yaptığı için 
+grafikte bulunan birçok detay gözükmez. Grafiğin 2^20 deneyindeki çıktıları o kadar büyüktür ki, küçük boyutlu deneylerin çıktıları 
+bu ölçekleme nedeniyle orijine oldukça yakın görünürler. Daha gerçekçi grafikleme için logaritmik bir ölçek kullanılılır. 
+    Eksponansiyel artan x değerlerinde noktaların eşit aralıklarla x-eksenine yerleştirilmesi ve noktalar arasında maksimum ayrımın
+sağlanması adına logaritmik ölçek kullanılır. Sıkı bir şekilde seyretmeyen dağıtık veriler üzerinde analizler yapılırken küçük veriler
+arasındaki küçük farkları görmek adına logaritmik ölçek kullanılması, aksi halde doğrusal(lineer) ölçek kullanılması daha idealdir.
+    Sonuçta biz ne kadar deney yaparsak yapalım, çıktılar bize tam olarak güvenebileceğimiz bir sonuç üretmez. Cevabımıza olan güveni 
+haklı çıkarabilmek için kaç örneğe bakmamız gerekiyor? Tam da bu noktada bir ifadeye ihtiyaç duyarız. Varyans!
+    
+    Varyans, bir veri setinin nasıl dağıldığının ölçüsüdür. Bir veri setinin varyansı bize, veri noktalarının ne kadar dağılım 
+gösterdiğini açıklar. Varyans sıfıra ne kadar yakınsa, veri noktaları o kadar yakın kümelenmiştir demektir.(Örnek olarak tüm değerler 
+aynı olsaydı, varyans sıfır olurdu.) Sonuçta verilerimizden elde ettiğimiz bir varyans grafiği çıkararak, sonucumuzun ne kadar gerçekçi
+olduğunu görebilir ve çıktımıza o derece güvenebiliriz. Bir veri setinin varyansı verilerin ortalamaya göre matematiksel dağılımını 
+ölçer. Bununla birlikte, varyans değeri teorik olarak doğru olsa da, pratikte uygulamak zordur çünkü varyansı hesaplamak için 
+kullanılan değerler karedir. Varyansın karekökü olarak standart sapma ise, orijinal değerlerle aynı birimde olan bir değer verir. 
+Yani standart sapma sonuçların çok daha kolay analiz edilmesini ve değerlendirilmesini sağlar.
+    Son grafiklemelerde çıktılarımıza olan güvenimizi artırmak için, çıktıların standart sapmalarını da çizdirdik. Böylece milyonlara
+yaklaşan deney değerlerinde yazı/tura oranlarının birbirlerine olan yakın olasılıklarının, standart sapmalarının gitgide sıfıra 
+yaklaşmasından da anlaşılacağı üzere oldukça gerçeğe yakın sonuçlar olduğunu gördük.
