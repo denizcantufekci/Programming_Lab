@@ -47,7 +47,8 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
 
 * **UZEM:Hafta_07 Konuları**
   - [Ders 20](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders20.py): [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/) sitesinde yer alan Binary Search Tree kodları baz alınarak arama(*search*), ekleme(*insertion*) ve silme(*delete*) fonksiyonları açıklandı ve gerçeklendi.
-  - [Ders 21](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders21.py): random modülü (choice-random methodu) kullanımı - Zar atma olasılığı - Para atma olasılıkları ve grafiklenmesi - (...)
+  - [Ders 21](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders21.py): Random modülü (choice-random-seed methodları) kullanımı - Zar atma olasılığı - Para atma olasılıkları ve grafiklenmesi - Stokastik Programlama(*Stochastic Programming*), Çıkarımsal İstatistik(*Inferential Statistics*), Ortalamaya Gerileme (*Regression Toward the Mean*), Varyans(*Variance*) ve Standart Sapma(*Standard Deviation*) kavramları 
+  (*Açıklamalı anlatım içeriğime [bu linkten](https://github.com/denizcantufekci/Programming_Lab/blob/master/UZEM/Hafta_07/180401060_Ders21_explanation.txt) ulaşabilirsiniz.*)
 
 ## ÖDEVLER
 
@@ -55,13 +56,11 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ödev 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_02.py): Çalışan işe alma ve çıkarılma tarihlerinin olduğu veri setinden, yalnız çıkarılma tarihlerindeki aylar baz alınarak histogram yoluyla ortalama ve medyan bilgisi elde ediliyor.
   - [Ödev 3](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_03.ipynb): Açıklama kısmında verilen sorular için tekdüze dağılım (uniform distribution) formülü baz alınarak örnek bir fonksiyon oluşturuluyor. Elde edilen fonksiyon (Yoğunluk veya Kütle fonksiyonu) kullanılarak, hem sympy.plotting modülündeki hem de matplotlib.pyplot modülündeki plot methodu ile grafik çizimleri yapılıyor. 
   - [Ödev 4](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_04.pdf): [UZEM:Hafta_04](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_04) derslerinde işlenen kod parçalarındaki işlevler açıklandı ve **heap** konusu baz alınarak *insertItem* ve *removeItem* fonksiyonları gerçeklendi.
-  - [Ödev 5](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_05.txt): 
-  - [Ödev 6](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_06.py): 
+  - [Ödev 5](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_05.txt): [UZEM:Hafta_05](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_05) derslerinde işlenen kodların gerçeklenmesi gerçekleştirildi.
+  - [Ödev 6](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_06.ipynb): Bir grup insan, bir kitabı ayrı ayrı okumaktalar. Birbirinden ayrı sayfaları okuma koşuluyla, kolektif veya bireysel olarak en uzun sayfayı okuyan kişi veya kişilerin bilgisi yazdırılıyor.
   
 ## QUİZLER
 
   - [Quiz 1](https://github.com/denizcantufekci/Programming_Lab/blob/master/Quiz/Prog_Lab_Quiz_1.pdf): [UZEM:Hafta_02](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_02) derslerinde işlenen kod parçalarındaki işlevler açıklandı.
-  - [Quiz 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Quiz/Prog_Lab_Quiz.txt): 
 
 ***Email me at***: denizcantufekci@gmail.com 
-
