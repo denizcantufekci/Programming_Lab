@@ -1,0 +1,11 @@
+    Hafta 07'de çıkarımsal istatistik ile bir alt kümeden(örnek bir olaydan), örneklem uzayı hakkında çıkarımda bulunulması işlenmişti. 
+Tüm popülasyonu gözlemlemek genellikle mümkün olmadığı için örnek uzaydan seçilen örnek olay, yani yapacağımız örnekleme(sampling) 
+daha güvenilir sonuçlar elde etmek adına oldukça önemlidir. Örnek olarak kan tahlillerimiz vücudumuzda dolanan kanın yalnız belirli bir 
+kısmını analiz ederlerken, doktorlar dolaşımdaki tüm dolaşım sistemi hakkında tahminde bulunurlar. Bu olayda bir tüp kan, bizim bir
+örneklememizi ifade eder.
+    Örnekleme türlerinden biri olan Basit Rastgele Örnekleme(Simple Random Sampling) yönteminde, örneklem uzayın alt kümesi olan her bir 
+örnek için seçilme olasılıkları eşittir. Diğer bir örnekleme türü olan Tabakalı Örnekleme(Stratified Sampling)'de ise, örneklem uzayı
+önce alt gruplara bölünür ve daha sonra her bir alt gruptan rastgele örnekleme yapılarak örnek olay oluşturulur. Fakat tabakalı örnekleme
+yönteminden elde edilen veriler, örneklem uzayın elemanları kendi aralarinda benzerlik gosteren en azından birkac alt-grubu bile olmadığı 
+durumlarda güvenilirlikten oldukça uzaktır. Diğer yandan veri benzerliği olan gruplanmalı durumlarda örnekleme yapılırken, alt grupların
+her birinden veri alındığı için, örneklem uzay hakkında yapılan tahminlerin kesinliği daha güvenilir olur.
