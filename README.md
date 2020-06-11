@@ -58,7 +58,8 @@ Bu depo, 2019-2020 bahar döneminde Programlama Laboratuarı dersinde öğretile
   - [Ödev 4](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_04.pdf): [UZEM:Hafta_04](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_04) derslerinde işlenen kod parçalarındaki işlevler açıklandı ve **heap** konusu baz alınarak *insertItem* ve *removeItem* fonksiyonları gerçeklendi.
   - [Ödev 5](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_05.txt): [UZEM:Hafta_05](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_05) derslerinde işlenen kodların gerçeklenmesi gerçekleştirildi.
   - [Ödev 6](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_hw_06.ipynb): Bir grup insan, bir kitabı ayrı ayrı okumaktalar. Birbirinden ayrı sayfaları okuma koşuluyla, kolektif veya bireysel olarak en uzun sayfayı okuyan kişi veya kişilerin bilgisi yazdırılıyor.
-  
+  - [Final Ödev 1](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_Final_Q1.py): İçerik eklenecek.
+  - [Final Ödev 2](https://github.com/denizcantufekci/Programming_Lab/blob/master/Odev/180401060_Final_Q2.py): İçerik eklenecek.
 ## QUİZLER
 
   - [Quiz 1](https://github.com/denizcantufekci/Programming_Lab/blob/master/Quiz/Prog_Lab_Quiz_1.pdf): [UZEM:Hafta_02](https://github.com/denizcantufekci/Programming_Lab/tree/master/UZEM/Hafta_02) derslerinde işlenen kod parçalarındaki işlevler açıklandı.
